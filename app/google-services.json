@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218652681599",
+    "firebase_url": "https://randomhexgenerator.firebaseio.com",
+    "project_id": "randomhexgenerator",
+    "storage_bucket": "randomhexgenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218652681599:android:507da17d458eb4c2",
+        "android_client_info": {
+          "package_name": "com.hellotape.hdl.randomhexgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218652681599-qo5q5lng627di4n5qti2d5aa8vqpack6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fZxqyBOEmebcNPbW_T8RdMyf964ZKQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
